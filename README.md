@@ -22,6 +22,7 @@ This project focuses on developing a robust forecasting model to predict future 
 * Facebook Prophet for time-series forecasting, as well as a linear baseline
 * Various data handling libraries (e.g., pandas, NumPy)
 * Modeling libraries (e.g., scikit-learn)
+* Data scraping libraries (e.g., Requests, fake_useragents)
 
 ## Contributers 
 Davit Martirosyan, Benjamin Dornow
